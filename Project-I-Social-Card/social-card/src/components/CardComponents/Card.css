@@ -1,1 +1,21 @@
 /* All styles for your Card Components live here */
+
+.reactimg{
+    width: 500px;
+    height: auto;
+    display: flex;
+    margin: 0 auto;
+    border-radius: 10px 10px 0 0;
+}
+
+.bottomcontent{
+    max-width: 478px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid lightgrey;
+    border-radius: 0 0 10px 10px;
+}
+
+.bottomcontent a{
+    color: grey;
+}
