@@ -27,8 +27,10 @@ const App = () => {
       </p> */}
       <div class='top'>
         <ImageThumbnail />
-        <LambdaTitle />
-        <HeaderContent />
+        <div class='contents'>
+          <LambdaTitle />
+          <HeaderContent />
+        </div>
       </div>
       
       <ReactBanner />

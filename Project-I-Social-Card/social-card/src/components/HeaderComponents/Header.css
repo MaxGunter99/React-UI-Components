@@ -2,19 +2,26 @@
 
 .top{
     display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    max-width: 500px;
+    max-width: 574px;
     margin: 0 auto;
+}
+
+.contents{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 500px;
+    justify-content: flex-start;
 }
 
 .header .LambdaLogo {
     height: 40px;
+    margin-top: 26px;
 }
 
 p.Lambda {
     display: flex;
     align-items: center;
+    margin: 0
 }
 
 p.account {
@@ -22,4 +29,8 @@ p.account {
     align-items: center;
     padding: 0 10px;
     color: grey;
+}
+
+.TopBottomContent{
+    margin: 0;
 }

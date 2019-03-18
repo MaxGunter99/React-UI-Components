@@ -1,7 +1,8 @@
 /* All styles for your Card Components live here */
 
 .reactimg{
-    width: 500px;
+    width: 100%;
+    max-width: 500px;
     height: auto;
     display: flex;
     margin: 0 auto;
@@ -18,4 +19,5 @@
 
 .bottomcontent a{
     color: grey;
+    text-decoration: none;
 }
