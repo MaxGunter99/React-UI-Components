@@ -1,0 +1,25 @@
+body{
+    border: 1px solid red;
+    height: 611px;
+    width: 416px;
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+
+body .top h1{
+    background-color: black;
+    color: white;
+    width: 414px;
+    display: flex;
+    justify-content: flex-end;
+    border-radius: 10px;
+}
+
+.numberButtons h1.zero{
+    width: 308px;
+}
+
+.numberButtons h1.clear{
+    width: 304px;
+}
