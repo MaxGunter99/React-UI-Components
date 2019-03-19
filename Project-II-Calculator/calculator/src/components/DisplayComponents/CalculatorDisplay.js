@@ -6,7 +6,7 @@ import './Display.css';
 const Hardwear = () => {
     return (
     <div className='top'>
-        <h1> </h1>
+        <h1>Error_404</h1>
     </div>
     );
 }

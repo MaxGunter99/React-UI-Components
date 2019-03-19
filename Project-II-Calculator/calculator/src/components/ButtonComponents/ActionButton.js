@@ -3,7 +3,7 @@ import './Button.css';
 
 //CLEAR AND 0
 
-function Extra(props) {
+function ActionButtons(props) {
     return (
         <div className='numberButtons'>
             <button><h1 className='zero'>0</h1></button>
@@ -12,4 +12,4 @@ function Extra(props) {
     );
 }
 
-export default Extra;
+export default ActionButtons;

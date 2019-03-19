@@ -4,7 +4,7 @@ import './App.css';
 
 import CalculatorDisplay from './components/DisplayComponents/CalculatorDisplay';
 import Number from './components/ButtonComponents/NumberButton';
-import Extra from './components/ButtonComponents/ActionButton';
+import ActionButtons from './components/ButtonComponents/ActionButton';
 
 const App = () => {
   return (
@@ -25,7 +25,7 @@ const App = () => {
     <div className='App'>
       <CalculatorDisplay />
       <Number />
-      <Extra />
+      <ActionButtons />
     </div>
       
     

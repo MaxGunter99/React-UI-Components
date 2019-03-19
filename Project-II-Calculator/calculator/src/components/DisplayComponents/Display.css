@@ -1,11 +1,17 @@
 body{
-    border: 1px solid red;
+    border: 1px solid rgb(43, 255, 0);
     height: 611px;
     width: 416px;
     margin: 0 auto;
     border-radius: 10px;
     margin-top: 100px;
+
 }
+
+body  {
+    background-image: url("https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif");
+    
+  }
 
 body .top h1{
     background-color: black;
