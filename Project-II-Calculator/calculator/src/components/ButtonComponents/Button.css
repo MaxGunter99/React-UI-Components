@@ -10,13 +10,13 @@ h1{
 }
 
 .numberButtons h1.function{
-    background-color: rgb(24, 88, 21);
+    background-color: rgb(255, 196, 70);
     border-radius:10px;
 }
 
 .numberButtons h1.function:hover{
     transition: .5s;
-    background-color: rgb(83, 161, 90);
+    background-color: rgb(255, 255, 255);
     border-radius:10px;
 }
 
